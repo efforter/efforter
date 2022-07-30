@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=WAVE&color=timeGradient&height=400&section=header&text=Hello%20in this shabby place&fontSize=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20in this shabby place&fontSize=40&animation=twinkling" />
 <br>
 <hr>
 <h3 align="center">SNS list</h3>
