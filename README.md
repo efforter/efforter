@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=50&section=header&text=Hello%20in this shabby place&fontSize=40&animation=twinkling" />
-<br>
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=100&section=header&text=Hello%20in this shabby place&fontSize=40&animation=twinkling" />
 <br>
 <hr>
 <h3 align="center">SNS list</h3>
