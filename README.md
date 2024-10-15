@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Hello%20in%20this%20shabby%20place&fontSize=60&animation=twinkling" />
 
 
