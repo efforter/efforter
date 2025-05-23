@@ -57,8 +57,8 @@
 <hr>
 <div align="center">
   
-  <!-- ![efforter's GitHub stats](https://github-readme-stats.vercel.app/api?username=efforter&show_icons=true&theme=radical) -->
+  <!-- ![efforter's GitHub stats](https://github-readme-stats.vercel.app/api?username=efforter&show_icons=true&theme=radical) 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vor564)](https://solved.ac/vor564/)
-  <img src="http://mazandi.herokuapp.com/api?handle=vor564&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=vor564&theme=warm"/> -->
 </div>
 <!-- <a href="https://www.instagram.com/h._.r0k/" target=_blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
